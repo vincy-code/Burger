@@ -1,0 +1,15 @@
+{
+  "name": "mysql-sequelize-heroku",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Melvin Emmanuelli",
+  "license": "MIT"
+}
