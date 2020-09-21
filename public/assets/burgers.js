@@ -1,6 +1,6 @@
 $(document).ready(function () {
     $(".create-form").on("submit", function (event) {
-        // Make sure to preventDefault on a submit event.
+        // It prevents Default on a submit event.
         event.preventDefault();
 
         var newBurger = {

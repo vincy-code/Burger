@@ -26,7 +26,7 @@ function objToSql(ob) {
     }
   }
 
-  // translate array of strings to a single comma-separated string
+  // translate array of strings
   return arr.toString();
 }
 
